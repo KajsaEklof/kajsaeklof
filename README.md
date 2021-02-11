@@ -1,8 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
-
-<center>
-<img src="./images/kajsaekloflogo_background.png" alt="Kajsa's personal logo, three layers of a k in purpel, yellow and coral with a green dot next to it." width="300" />
-</center>
+<img src="./images/kajsaekloflogo_background.png" alt="Kajsa's personal logo, three layers of a k in purpel, yellow and coral with a green dot next to it." width="200" />
 
 ## Oh heya
 
