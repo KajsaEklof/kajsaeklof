@@ -2,4 +2,4 @@
 
 ## Oh heya
 
-I'm Kajsa (:speech_balloon: k-ay-s-uh ) and I struggle to complete my side projects... but I love learning new things!
+I'm Kajsa (:speech_balloon: k-ay-s-uh )
