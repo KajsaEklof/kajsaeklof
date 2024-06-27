@@ -4,4 +4,4 @@
 
 I'm Kajsa (:speech_balloon: k-ay-s-uh ). 
 
-I'm a Front-End & UI Developer at [Comnoco](https://www.comnoco.com/). I like coding fun things and talking to my dog.
+I'm a Full Stack Developer at [Comnoco](https://www.comnoco.com/). I like coding fun things and talking to my dog.
